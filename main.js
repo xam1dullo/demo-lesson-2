@@ -1,1 +1,3 @@
-console.log("git");
+function logger(arg) {
+	console.log(arg);
+}
